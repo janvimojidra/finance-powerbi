@@ -1,10 +1,10 @@
-# 📊 Finance Dashboard (Power BI)
+# Finance Dashboard (Power BI)
 
 A clean and interactive **Finance Performance Dashboard** built in **Power BI**, showing monthly revenue, expenses, profit trends, and category-wise analysis.
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <p align="center">
   <img src="dashboard.png" width="800">
@@ -16,7 +16,7 @@ A clean and interactive **Finance Performance Dashboard** built in **Power BI**,
 
 ---
 
-## 🔑 Features
+##  Features
 - KPI Cards: Revenue, Expense, Profit, Profit Margin  
 - Monthly trend charts  
 - Category contribution (donut chart)  
@@ -25,7 +25,7 @@ A clean and interactive **Finance Performance Dashboard** built in **Power BI**,
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `Finance.pbix` – Power BI dashboard  
 - `finance_data.xlsx` – Dataset  
 - `dashboard.png` – Dashboard screenshot  
@@ -34,7 +34,7 @@ A clean and interactive **Finance Performance Dashboard** built in **Power BI**,
 
 ---
 
-## 🧮 DAX Used
+## DAX Used
 ```DAX
 Total Revenue = SUM(Data[Revenue])
 Total Expense = SUM(Data[Expense])
