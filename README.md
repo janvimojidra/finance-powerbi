@@ -26,7 +26,7 @@ A clean and interactive **Finance Performance Dashboard** built in **Power BI**,
 ---
 
 ## 📁 Files Included
-- `Finance_Dashboard.pbix` – Power BI dashboard  
+- `Finance.pbix` – Power BI dashboard  
 - `finance_data.xlsx` – Dataset  
 - `dashboard.png` – Dashboard screenshot  
 - `data.png` – Dataset preview image  
